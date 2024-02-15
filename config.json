@@ -1,4 +1,6 @@
 {
-    "username": "<DOMAIN>\\<username>",
-    "server": "<hostname>"
+    "domain": "<DOMAIN>",
+    "username": "<username>",
+    "server": "<hostname>",
+    "exportsDir": "<exports>"
 }
